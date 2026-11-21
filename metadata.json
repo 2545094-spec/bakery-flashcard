@@ -1,0 +1,6 @@
+{
+  "name": "제과제빵과 2학년 전공 용어 플래시카드",
+  "description": "제과제빵과 2학년 전공 심화 용어를 카드 뒤집기와 알아요·모르겠어요 분류로 학습하는 플래시카드 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
